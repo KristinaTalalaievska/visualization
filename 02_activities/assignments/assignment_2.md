@@ -12,7 +12,8 @@
       ```
       Your answer...
 Bad example of data visualization: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
-Good: The approach has been chosen is very creative and attract audience attention, pro-patriotic oriented for US citizens.
+Good: The approach has been chosen is very creative and attract audience attention, pro-patriotic oriented for US citizens, using 3D which does attract more attention.
+
 Bad: 
  1. Poor choice of layout and unclear content  that  makes it hard to focus on the main message.
  2. Poor Choice of Colors, and using black and white colors except the US flag highlight which is makes the chart difficult to read. The color in this chart doesn’t benefit towards reading it and understanding better. Too much decorative ink (e.g., unnecessary gridlines, borders) can distract from the data related to US flag and non-visible content related to other counties. 
