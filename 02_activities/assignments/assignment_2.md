@@ -56,9 +56,9 @@ For Bad Example: https://public.tableau.com/app/profile/brian.moore7221/viz/USAT
  
 
 For Good Example:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics 
- 1. Simplify Layout by focusing on the most critical metrics can reduce cognitive load.
- 2. Enhance Readability: font sizes are consistent and large enough to be easily readable, especially in charts with a lot of data points or text.
- 3. Focus on key data by highlight the most important data points and trends to draw the viewer’s attention.
+ 1. Simplify layout by focusing on the most critical metrics can reduce cognitive load.
+ 2. Enhance readability: font sizes are consistent and large enough to be easily readable, especially in charts with a lot of data points or text.
+ 3. Focus on key data by highlighting  the most important data points and trends to draw the viewer’s attention.
  4. Being consistent in context like choosing the same time frames. 
  5. Label  the chart bars 
 
