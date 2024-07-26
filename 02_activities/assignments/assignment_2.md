@@ -42,7 +42,6 @@ Bad:
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
    Areas for Improvement:
 
 For Bad Example: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
