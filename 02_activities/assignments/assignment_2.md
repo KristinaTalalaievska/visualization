@@ -28,6 +28,7 @@ The approach has been chosen is very creative and attract audience attention, pr
  8. Inappropriate chart type that  does not suit the data (e.g., using a pie chart for time-series data) can confuse the audience.
 
 ## Good example of data visualization: 
+
 https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
 
 ## Good: 
@@ -35,6 +36,7 @@ https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTablea
 2. Use of interactive elements that  allow users to explore the data in more detail, enhancing user engagement and enabling deeper insights.
 3. Adding colors to the chart 
 4. Proving explanations and context
+
 ## Bad:
 1. Overcrowded layout like  too much information at once. The dashboard appears crowded with numerous charts and metrics displayed simultaneously, which can overwhelm the viewer.
 2. Lack of clear hierarchy there is no clear visual hierarchy (in one graph mentioned months and in another years) guiding the viewer on which information is most important.
@@ -46,9 +48,11 @@ https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTablea
       ```
     - How could this data visualization have been improved?  
       ```
-   ## Areas for Improvement:
+## Areas for Improvement:
 
-## For Bad Example: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
+## For Bad Example:
+
+https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
 
 1. Use appropriate chart type ensuring that the chosen chart types is the best fit for the data being presented.
 2. Simplifying the layout by focusing on the most critical metrics
