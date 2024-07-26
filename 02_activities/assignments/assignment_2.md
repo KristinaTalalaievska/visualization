@@ -27,7 +27,9 @@ The approach has been chosen is very creative and attract audience attention, pr
  7. Misleading representations: implementing 3D effects or other visual tricks can distort the perception of the data, pie charts with too many slices can be hard to interpret accurately.
  8. Inappropriate chart type that  does not suit the data (e.g., using a pie chart for time-series data) can confuse the audience.
 
-## Good example of data visualization: https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
+## Good example of data visualization: 
+https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
+
 ## Good: 
 1. Comprehensive approach, which includes the dashboard with a  broad overview of key metrics such as sales, profit, and orders. It does help to make a quick assessment of business performance.
 2. Use of interactive elements that  allow users to explore the data in more detail, enhancing user engagement and enabling deeper insights.
