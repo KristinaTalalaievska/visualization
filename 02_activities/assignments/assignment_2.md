@@ -63,7 +63,10 @@ https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USA
 7. Using minimalistic design will help to improve readability of the viewer  
  
 
-## For Good Example:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics 
+## For Good Example:  
+
+https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics 
+
  1. Simplify layout by focusing on the most critical metrics can reduce cognitive load.
  2. Enhance readability: font sizes are consistent and large enough to be easily readable, especially in charts with a lot of data points or text.
  3. Focus on key data by highlighting  the most important data points and trends to draw the viewer’s attention.
