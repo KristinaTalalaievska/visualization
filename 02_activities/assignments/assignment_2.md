@@ -13,7 +13,8 @@
       Your answer...
 Bad example of data visualization: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
 
-### Good: The approach has been chosen is very creative and attract audience attention, pro-patriotic oriented for US citizens, using 3D which does attract more attention.
+### Good: 
+The approach has been chosen is very creative and attract audience attention, pro-patriotic oriented for US citizens, using 3D which does attract more attention.
 
 ### Bad: 
  1. Poor choice of layout and unclear content  that  makes it hard to focus on the main message.
