@@ -11,7 +11,8 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
-Bad example of data visualization: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
+## Bad example of data visualization: 
+https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
 
 ### Good: 
 The approach has been chosen is very creative and attract audience attention, pro-patriotic oriented for US citizens, using 3D which does attract more attention.
@@ -26,19 +27,17 @@ The approach has been chosen is very creative and attract audience attention, pr
  7. Misleading representations: implementing 3D effects or other visual tricks can distort the perception of the data, pie charts with too many slices can be hard to interpret accurately.
  8. Inappropriate chart type that  does not suit the data (e.g., using a pie chart for time-series data) can confuse the audience.
 
-Good example of data visualization: https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
-Good: 
+## Good example of data visualization: https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
+## Good: 
 1. Comprehensive approach, which includes the dashboard with a  broad overview of key metrics such as sales, profit, and orders. It does help to make a quick assessment of business performance.
 2. Use of interactive elements that  allow users to explore the data in more detail, enhancing user engagement and enabling deeper insights.
 3. Adding colors to the chart 
 4. Proving explanations and context
-Bad:
+## Bad:
 1. Overcrowded layout like  too much information at once. The dashboard appears crowded with numerous charts and metrics displayed simultaneously, which can overwhelm the viewer.
 2. Lack of clear hierarchy there is no clear visual hierarchy (in one graph mentioned months and in another years) guiding the viewer on which information is most important.
 3. Inconsistent and small font sizes, difficult to read some of the text.
 4. Poor use of whitespace: overwhelming appearance makes the dashboard look cluttered and less organized.
-
-
 
 
 
