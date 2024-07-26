@@ -44,9 +44,9 @@ The approach has been chosen is very creative and attract audience attention, pr
       ```
     - How could this data visualization have been improved?  
       ```
-   Areas for Improvement:
+   ## Areas for Improvement:
 
-For Bad Example: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
+## For Bad Example: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
 
 1. Use appropriate chart type ensuring that the chosen chart types is the best fit for the data being presented.
 2. Simplifying the layout by focusing on the most critical metrics
@@ -57,7 +57,7 @@ For Bad Example: https://public.tableau.com/app/profile/brian.moore7221/viz/USAT
 7. Using minimalistic design will help to improve readability of the viewer  
  
 
-For Good Example:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics 
+## For Good Example:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics 
  1. Simplify layout by focusing on the most critical metrics can reduce cognitive load.
  2. Enhance readability: font sizes are consistent and large enough to be easily readable, especially in charts with a lot of data points or text.
  3. Focus on key data by highlighting  the most important data points and trends to draw the viewer’s attention.
@@ -66,9 +66,7 @@ For Good Example:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/Sam
 
 
 
-
-
-      
+   
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
