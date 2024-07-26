@@ -16,21 +16,21 @@ Good: The approach has been chosen is very creative and attract audience attenti
 Bad: 
  1. Poor choice of layout and unclear content  that  makes it hard to focus on the main message.
  2. Poor Choice of Colors, and using black and white colors except the US flag highlight which is makes the chart difficult to read. The color in this chart doesn’t benefit towards reading it and understanding better. Too much decorative ink (e.g., unnecessary gridlines, borders) can distract from the data related to US flag and non-visible content related to other counties. 
- 3. Lack of Clear Labels and Titles  makes a huge  challenge to understand what the data represents. In our case the some sort of labeling does appear only why navigating toward them. Missing titles and labels from the first look can confuse the viewer.
-4. Lack of Context or Annotations: without  providing enough context or annotations to explain trends, outliers, or significant data points can leave the viewer guessing.
+ 3. Lack of clear labels and titles  makes a huge  challenge to understand what the data represents. In our case the some sort of labeling does appear only why navigating toward them. Missing titles and labels from the first look can confuse the viewer.
+4. Lack of context and information: without  providing enough context or annotations to explain trends, outliers, or significant data points can leave the viewer guessing.
  5. Not starting the y-axis at zero can exaggerate differences between data points.
- 6. Poor Data-to-Ink Ratio.
- 7. Misleading Representations: implementing 3D effects or other visual tricks can distort the perception of the data, pie charts with too many slices can be hard to interpret accurately.
- 8. Inappropriate Chart Type that  does not suit the data (e.g., using a pie chart for time-series data) can confuse the audience.
+ 6. Poor data-to-ink ratio.
+ 7. Misleading representations: implementing 3D effects or other visual tricks can distort the perception of the data, pie charts with too many slices can be hard to interpret accurately.
+ 8. Inappropriate chart type that  does not suit the data (e.g., using a pie chart for time-series data) can confuse the audience.
 
 Good example of data visualization: https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
 Good: 
 1. Comprehensive approach, which includes the dashboard with a  broad overview of key metrics such as sales, profit, and orders. It does help to make a quick assessment of business performance.
-2. Use of Interactive elements that  allow users to explore the data in more detail, enhancing user engagement and enabling deeper insights.
-3. Color Coding 
+2. Use of interactive elements that  allow users to explore the data in more detail, enhancing user engagement and enabling deeper insights.
+3. Adding colors to the chart 
 4. Proving explanations and context
 Bad:
-1. Overcrowded layout like  too Much Information at once. The dashboard appears crowded with numerous charts and metrics displayed simultaneously, which can overwhelm the viewer.
+1. Overcrowded layout like  too much information at once. The dashboard appears crowded with numerous charts and metrics displayed simultaneously, which can overwhelm the viewer.
 2. Lack of clear hierarchy there is no clear visual hierarchy (in one graph mentioned months and in another years) guiding the viewer on which information is most important.
 3. Inconsistent and small font sizes, difficult to read some of the text.
 4. Poor use of whitespace: overwhelming appearance makes the dashboard look cluttered and less organized.
