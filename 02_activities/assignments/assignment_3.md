@@ -7,7 +7,28 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+### Visualization 1:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
+
+### Accessible:
+The layout is clean with distinct sections, making it easy to navigate.
+Allows users to interact with the data, enhancing engagement and understanding.
+ Has a  good contrast, aiding visibility for users with color vision deficiencies.
+However, some text elements might be too small, which can be a barrier for users with visual impairments. If not properly configured labels, it  might not provide sufficient context, hindering accessibility for screen reader users.
+### Reproducible:
+Its uses a publicly available or common dataset (Sample Superstore), making it easier for others to replicate the visualization.
+However,  if the specific steps or transformations applied to the data are not documented, it might be challenging to replicate the results.
+### Equitable:
+It appears to provide a comprehensive overview of sales data without bias and allows users to interact with the data, facilitating personalized exploration based on individual interests or needs.
+
+
+### Visualization 2: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
+
+### Accessible:
+Lack of clear interactive elements might make it less engaging and harder to explore specific data points, however the color scheme is visually engaging and may attract attention.
+### Reproducible:
+It's hosted on Tableau, which theoretically makes it easier for others to access and attempt to replicate. Meanwhile, the detailed and cluttered nature of the visualization may make it challenging to understand the steps needed to reproduce it.
+### Equitable:
+Represents a wide range of data points related to the USA Summer Games, potentially providing insights into various aspects of the events. The dense information presentation can create cognitive overload, potentially alienating users who are not familiar with the data or who have cognitive disabilities.
 
 
 
