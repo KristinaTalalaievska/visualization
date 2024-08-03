@@ -30,11 +30,8 @@ It's hosted on Tableau, which theoretically makes it easier for others to access
 ### Equitable:
 Represents a wide range of data points related to the USA Summer Games, potentially providing insights into various aspects of the events. The dense information presentation can create cognitive overload, potentially alienating users who are not familiar with the data or who have cognitive disabilities.
 
-
-
-        ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
+        
 ### Visualization 1
 
 ### Accessibility: 
@@ -63,12 +60,6 @@ Represents a wide range of data points related to the USA Summer Games, potentia
 - Ensuring  that the visualization represents all relevant aspects and is not biased towards specific outcomes.
 - Including  data and narratives from multiple perspectives to provide a holistic view.
 
-
-
-
-
-
-        ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
