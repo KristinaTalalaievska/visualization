@@ -7,7 +7,7 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-### Visualization 1:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
+### Visualization #1:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/SampleSuperstoreTableauPulseEdition/Metrics
 
 ### Accessible:
 The layout is clean with distinct sections, making it easy to navigate.
@@ -21,7 +21,7 @@ However,  if the specific steps or transformations applied to the data are not d
 It appears to provide a comprehensive overview of sales data without bias and allows users to interact with the data, facilitating personalized exploration based on individual interests or needs.
 
 
-### Visualization 2: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
+### Visualization #2: https://public.tableau.com/app/profile/brian.moore7221/viz/USATheSummerGames/USATheSummerGames 
 
 ### Accessible:
 Lack of clear interactive elements might make it less engaging and harder to explore specific data points, however the color scheme is visually engaging and may attract attention.
@@ -32,7 +32,7 @@ Represents a wide range of data points related to the USA Summer Games, potentia
 
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         
-### Visualization 1
+### Visualization #1
 
 ### Accessibility: 
  - Adjusting all text elements will make more readable.
@@ -46,7 +46,7 @@ Represents a wide range of data points related to the USA Summer Games, potentia
 - Allowing  users to customize views and filter data according to their needs.
 - Incorporating  features such as text-to-speech or high-contrast modes.
 
-### Visualization 2
+### Visualization #2
 
 ### Accessibility:
 - Breaking  down the information into more digestible sections or use multiple dashboards.
