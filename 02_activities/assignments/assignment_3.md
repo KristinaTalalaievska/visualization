@@ -61,6 +61,7 @@ Represents a wide range of data points related to the USA Summer Games, potentia
 - Including  data and narratives from multiple perspectives to provide a holistic view.
 
 
+
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
 ### Why am I doing this assignment?:
