@@ -35,7 +35,36 @@ Represents a wide range of data points related to the USA Summer Games, potentia
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+### Visualization 1
+
+### Accessibility: 
+ - Adjusting all text elements will make more readable.
+ - Providing  detailed, contextual tooltips to assist users with screen readers.
+ - Ensuring all data points and interactive elements have descriptive labels.
+### Reproducibility:
+ - Including detailed steps of the data preparation and visualization process.
+ - Clearly mentioning  all data sources and include links if possible.
+ - Offering  downloadable templates or workbooks for others to use as a starting point.
+###  Equity:
+- Allowing  users to customize views and filter data according to their needs.
+- Incorporating  features such as text-to-speech or high-contrast modes.
+
+### Visualization 2
+
+### Accessibility:
+- Breaking  down the information into more digestible sections or use multiple dashboards.
+- Effective usage whitespace effectively to avoid overwhelming users with too much information at once.
+- Including  instructions or guides on how to navigate and use the interactive features.
+- Using  a color scheme that meets accessibility standards for color contrast.
+### Reproducibility:
+- Ensuring  that the data sources are clearly cited and accessible to others.
+- Maintaining  version control of the visualization files to track changes and updates.
+### Equity:
+- Ensuring  that the visualization represents all relevant aspects and is not biased towards specific outcomes.
+- Including  data and narratives from multiple perspectives to provide a holistic view.
+
+
+
 
 
 
