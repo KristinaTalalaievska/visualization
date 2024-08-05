@@ -18,7 +18,7 @@ Software Used:
 > Who is your intended audience?
 
   Intended Audience:
-- General Public: Inform about vaccination rates.
+- General Public: Knowing about vaccination rates.
 - Health Officials and governmental authorities: Insights for public health decisions.
 - Health Researchers: Analyze vaccination trends.
 > What information or message are you trying to convey with your visualization?
@@ -43,13 +43,14 @@ General Public, and as a separate categories  Health Officials, Researchers, who
 
 > How did you choose which features of your chosen dataset to include or exclude from your visualization?
 
-I took as a key informattion age groups and percentage how many people are fully vaccinated. As a separate visualization I decided to compare how many people did one dose, second dose and third dose.  
+I took as a key information age groups and percentage how many people are fully vaccinated. Features like "PHU name" and "Date" were excluded to simplify the visualization and avoid clutter.  As a separate visualization I decided to compare how many people did one dose, second dose and third dose.  
 
 > What ‘underwater labour’ contributed to your final data visualization product?
 
 - Data acquisition - downloading the dataset using Python’s requests library.
 - Data cleaning and preparation -  handling missing values, checking for required columns, and aggregating data by age group.
 - Data visualization - creating histograms and pair plots using Matplotlib and Seaborn to ensure clear and accurate representations.
+- Technical Troubleshooting: Resolving software issues, optimizing performance, and ensuring compatibility.
 - Aesthetic considerations -  choosing appropriate color palettes, titles, and labels for clarity and readability.
 - Reproducibility -  writing clear, documented, and modular code to ensure others can replicate it and visualizate  easily.
 
@@ -60,21 +61,40 @@ I took as a key informattion age groups and percentage how many people are fully
 Tableau Public
 > Who is your intended audience?
 Intended Audience:
-- General Public: Inform about vaccination rates.
+- General Public: Knowing about vaccination rates.
 - Health Officials and governmental authorities: Insights for public health decisions.
 - Health Researchers: Analyze vaccination trends.
 - Policymakers, Healthcare professionals
   
-  > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
-   
-    > How did you ensure that your data visualization is accessible?  
-    
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
+> What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+- Substantive: By including  relevant vaccination data by age.
+- Perceptual:  By using clear labeling and color schemes for easy interpretation.
+- Aesthetic: By chosing  a clean layout to avoid clutter.   
 
+>  How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+
+The data and steps that  the visualization was created can be easy access by using the Tableau workbook 
+
+> How did you ensure that your data visualization is accessible?  
+ 
+Accessibility - using a clear colorful palette that is easy to read, using clear labels.
+      
+> Who are the individuals and communities who might be impacted by your visualization?
+
+General Public, and as a separate categories  health officials, policy makers, researchers, who can take official desicions and provide awareness campaings.  
+
+> How did you choose which features of your chosen dataset to include or exclude from your visualization?
+
+I focused on key metrics like "Percent Fully Vaccinated" and "Age Group" to highlight vaccination coverage across different demographics. Features like "PHU name" and "Date" were excluded to simplify the visualization and avoid clutter. This decision ensures the message is clear and targeted, showing the overall vaccination progress by age groups without unnecessary details.
     
-    > What ‘underwater labour’ contributed to your final data visualization product?
+> What ‘underwater labour’ contributed to your final data visualization product?
+
+Data Cleaning and Preparation: Ensuring data accuracy, handling missing values, and formatting the dataset for Tableau.
+Understanding the dataset: Analyze dataset and including field definitions and relevant context.
+Iteration: Testing multiple visualizations to find the most effective representation.
+Technical Troubleshooting: Resolving software issues, optimizing performance, and ensuring compatibility.
+Aesthetic considerations -  choosing appropriate color palettes, titles, and labels for clarity and readability.
+Documentation: Creating detailed notes to ensure reproducibility and transparency.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
