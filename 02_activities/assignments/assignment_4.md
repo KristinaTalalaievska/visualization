@@ -48,7 +48,7 @@ I took as a key informattion age groups and percentage how many people are fully
 - Data acquisition - downloading the dataset using Python’s requests library.
 - Data cleaning and preparation -  handling missing values, checking for required columns, and aggregating data by age group.
 - Data visualization - creating histograms and pair plots using Matplotlib and Seaborn to ensure clear and accurate representations.
-- Aesthetic considerations -  Choosing appropriate color palettes, titles, and labels for clarity and readability.
+- Aesthetic considerations -  choosing appropriate color palettes, titles, and labels for clarity and readability.
 - Reproducibility -  writing clear, documented, and modular code to ensure others can replicate it and visualizate  easily.
 
 ### Visualization using Tableau Public (the file is in participation folder)
