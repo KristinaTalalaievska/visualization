@@ -89,12 +89,12 @@ I focused on key metrics like "Percent Fully Vaccinated" and "Age Group" to high
     
 > What ‘underwater labour’ contributed to your final data visualization product?
 
-Data Cleaning and Preparation: Ensuring data accuracy, handling missing values, and formatting the dataset for Tableau.
-Understanding the dataset: Analyze dataset and including field definitions and relevant context.
-Iteration: Testing multiple visualizations to find the most effective representation.
-Technical Troubleshooting: Resolving software issues, optimizing performance, and ensuring compatibility.
-Aesthetic considerations -  choosing appropriate color palettes, titles, and labels for clarity and readability.
-Documentation: Creating detailed notes to ensure reproducibility and transparency.
+- Data Cleaning and Preparation: Ensuring data accuracy, handling missing values, and formatting the dataset for Tableau.
+- Understanding the dataset: Analyze dataset and including field definitions and relevant context.
+- Iteration: Testing multiple visualizations to find the most effective representation.
+- Technical Troubleshooting: Resolving software issues, optimizing performance, and ensuring compatibility.
+- Aesthetic considerations -  choosing appropriate color palettes, titles, and labels for clarity and readability.
+- Documentation: Creating detailed notes to ensure reproducibility and transparency.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
