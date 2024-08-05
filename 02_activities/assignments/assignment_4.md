@@ -30,13 +30,20 @@ I tried to apply all 3 principles  substantive by  making accurate representatio
  > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
 
 Reproducibility of data visualization is ensured by providing  completed Python code  and  data can be easily downloaded via URL.
-> How did you ensure that your data visualization is accessible?  
-    Accessibility - using a clear colorful palette that is easy to read, using clear labels.
-> Who are the individuals and communities who might be impacted by your visualization?  
+
+> How did you ensure that your data visualization is accessible?
+Accessibility - using a clear colorful palette that is easy to read, using clear labels.
+
+> Who are the individuals and communities who might be impacted by your visualization?
+
 General Public, and as a separate categories  Health Officials, Researchers, who can take official desicions and provide awareness campaings.
-> How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+
+> How did you choose which features of your chosen dataset to include or exclude from your visualization?
+
 I took as a key informattion age groups and percentage how many people are fully vaccinated. As a separate visualization I decided to compare how many people did one dose, second dose and third dose.  
-   > What ‘underwater labour’ contributed to your final data visualization product?
+
+> What ‘underwater labour’ contributed to your final data visualization product?
+
 - Data acquisition - downloading the dataset using Python’s requests library.
 - Data cleaning and preparation -  handling missing values, checking for required columns, and aggregating data by age group.
 - Data visualization - creating histograms and pair plots using Matplotlib and Seaborn to ensure clear and accurate representations.
