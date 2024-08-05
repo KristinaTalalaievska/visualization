@@ -26,8 +26,10 @@ Message Conveyed is to show distribution and percentage of fully vaccinated indi
 > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
 
 I tried to apply all 3 principles  substantive by  making accurate representation, perceptual by applying  clear labels and distinct colors and aesthetic - making  visually appealing colors and styles. Axes lables, color palette choice, substle gridlines in reading values, markers on the line plot highlight specific data points for better interpretation and using legend that helps in distinguishing data categories.
- > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    Reproducibility of data visualization is ensured by providing  completed Python code  and  data can be easily downloaded via URL.
+
+ > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+
+Reproducibility of data visualization is ensured by providing  completed Python code  and  data can be easily downloaded via URL.
 > How did you ensure that your data visualization is accessible?  
     Accessibility - using a clear colorful palette that is easy to read, using clear labels.
 > Who are the individuals and communities who might be impacted by your visualization?  
