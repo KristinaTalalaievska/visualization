@@ -39,7 +39,7 @@ Accessibility - using a clear colorful palette that is easy to read, using clear
 
 > Who are the individuals and communities who might be impacted by your visualization?
 
-General Public, and as a separate categories  Health Officials, Researchers, who can take official desicions and provide awareness campaings.
+General public, and as a separate categories  health officials, researchers, who can take official desicions and provide awareness campaings.
 
 > How did you choose which features of your chosen dataset to include or exclude from your visualization?
 
