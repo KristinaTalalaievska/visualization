@@ -54,9 +54,11 @@ I took as a key informattion age groups and percentage how many people are fully
 - Reproducibility -  writing clear, documented, and modular code to ensure others can replicate it and visualizate  easily.
 
 ### Visualization using Tableau Public (the file is in participation folder)
-  > What software did you use to create your data visualization?
+
+> What software did you use to create your data visualization?
+
 Tableau Public
-  > Who is your intended audience?
+> Who is your intended audience?
 Intended Audience:
 - General Public: Inform about vaccination rates.
 - Health Officials and governmental authorities: Insights for public health decisions.
