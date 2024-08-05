@@ -33,6 +33,7 @@ I tried to apply all 3 principles  substantive by  making accurate representatio
 Reproducibility of data visualization is ensured by providing  completed Python code  and  data can be easily downloaded via URL.
 
 > How did you ensure that your data visualization is accessible?
+
 Accessibility - using a clear colorful palette that is easy to read, using clear labels.
 
 > Who are the individuals and communities who might be impacted by your visualization?
